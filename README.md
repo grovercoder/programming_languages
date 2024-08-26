@@ -2,7 +2,7 @@
 
 This code provides a list of current programming languages.
 
-This information is found via https://www.tiobe.com/tiobe-index/programminglanguages_definition and then presented in as plain text and JSON.
+This information is found via https://www.tiobe.com/tiobe-index/programminglanguages_definition and then presented as plain text and JSON.
 
 ## Usage:
 
